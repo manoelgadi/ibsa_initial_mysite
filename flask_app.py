@@ -1,11 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Author: Prof. Manoel Gadi
 """
-
-# HTTP
 
 from flask import Flask, render_template, request
 app = Flask(__name__)
